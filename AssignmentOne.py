@@ -5,6 +5,7 @@ people = int(input("Enter the number of people: "))
 print("Choose digit for a tip percentage")
 print("1 for 10%")
 print("2 for 15%")
+
 print("3 for20%")
 print("4 for Custom")
 choice = input("Enter your choice (1, 2, 3, or 4): ")
