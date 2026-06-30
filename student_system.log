@@ -1,0 +1,4 @@
+2026-06-30 20:52:57,617 | INFO | Created new students.csv file.
+2026-06-30 20:52:57,619 | INFO | Created new students.json file.
+2026-06-30 20:52:57,620 | INFO | Student Management System started
+2026-06-30 20:54:20,109 | ERROR | Validation error: Registration number must be alphanumeric (dashes allowed).
